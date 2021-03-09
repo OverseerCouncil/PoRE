@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Secret challenge</string>
+    <string name="input">input here: </string>
+</resources>

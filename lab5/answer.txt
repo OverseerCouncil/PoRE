@@ -1,0 +1,2 @@
+lightyellowdress
+flag{SmaliIsCoolll}
